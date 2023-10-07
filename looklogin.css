@@ -23,3 +23,10 @@ input[type=text], input[type=password] {
     opacity: 0.8;
   }
   
+  label {
+    color: white;
+  }
+
+  body {
+    color: black;
+  }
